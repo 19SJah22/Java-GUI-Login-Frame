@@ -1,1 +1,1 @@
-# Java-GUI-Login-Frame
+In this project, I used GUI to create a registration and login feature. This feature needs to allow users to create an account by entering a username, password, first name, and last name. Once the username and password are successfully created, Login to the account using the same username and password.
